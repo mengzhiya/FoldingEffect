@@ -7,7 +7,7 @@
     <TextView
         android:layout_alignParentTop="true"
         android:layout_marginTop="15dp"
-        android:id="@+id/handler"
+        android:id="@+id/handle"
         android:text="This is Handler~~~~~~~~~~~~~"
         android:background="@drawable/qucii_notification_manager_title_bg"
         android:gravity="center"
@@ -16,7 +16,7 @@
 
     <FrameLayout
         android:id="@+id/container"
-        android:layout_below="@id/handler"
+        android:layout_below="@id/handle"
         android:layout_width="match_parent"
         android:layout_marginTop="8dp"
         android:orientation="vertical"
